@@ -9,7 +9,7 @@ const images = [
   './assets/image-content/image-3.png',
   './assets/image-content/image-4.png',
   './assets/image-content/image-5.png',
-  './assets/image-content/image-6.png'
+  './assets/image-content/image-6-2.png'
 ];
 
 // =============================================
